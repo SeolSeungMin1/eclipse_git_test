@@ -33,6 +33,8 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
+		System.out.println("hellow git");
+		
 		return "home";
 	}
 	
