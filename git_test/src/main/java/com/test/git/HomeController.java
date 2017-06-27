@@ -36,7 +36,7 @@ public class HomeController {
 		System.out.println("hellow git");
 		
 		System.out.println("dance world hell");
-		
+		System.out.println("add java class file push");
 		return "home";
 	}
 	
