@@ -37,6 +37,8 @@ public class HomeController {
 		
 		System.out.println("hellow dance world");
 		
+		System.out.println("dance world hell");
+		
 		return "home";
 	}
 	
